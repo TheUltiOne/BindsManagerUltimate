@@ -7,7 +7,8 @@ Grab the **.exe** file from [here](http://github.com/TheUltiOne/BindsManagerUlti
 It is a standalone exe, so it doesn't need any setup or anything.
 
 ## Usage
-![See image here](theultione.github.io/20211010182241.png "See image here")
+![An image of the Binds Manager](https://theultione.github.io/cdn/20211010183259.png)
+
 It should look something like this. There is a label that will inform you of your command binds. As of right now, the window isn't sizable or movable but I'm working on it.
 
 Choose a key in the dropdown menu in the bottom right, then write your command in the box below. Press add command and it will save it for you! You can select admin command if it is an admin command.
