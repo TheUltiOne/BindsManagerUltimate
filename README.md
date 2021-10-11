@@ -7,7 +7,7 @@ Grab the **.exe** file from [here](http://github.com/TheUltiOne/BindsManagerUlti
 It is a standalone exe, so it doesn't need any setup or anything.
 
 ## Usage
-![An image of the Binds Manager](https://theultione.github.io/cdn/20211010183259.png)
+![An image of the Binds Manager](http://cdn.theultione.live/img/20211010210447.png)
 
 It should look something like this. There is a label that will inform you of your command binds. As of right now, the window isn't sizable or movable but I'm working on it.
 
